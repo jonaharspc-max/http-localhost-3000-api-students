@@ -1,23 +1,25 @@
+
 {
-  "name": "diangca_jonahar-labact9",
+  "name": "student-records-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A RESTful API for managing student records using Express.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jonaharspc-max/http-localhost-3000-api-students.git"
+    "url": "https://github.com/jonaharspc-max/http-localhost-3000-api-students.git"
   },
-  "keywords": [],
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "students"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/jonaharspc-max/http-localhost-3000-api-students/issues"
-  },
-  "homepage": "https://github.com/jonaharspc-max/http-localhost-3000-api-students#readme",
   "dependencies": {
     "express": "^5.3.0"
   }
