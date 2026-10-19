@@ -1,22 +1,12 @@
-
 {
-  "name": "student-records-api",
+  "name": "task-api",
   "version": "1.0.0",
-  "description": "A RESTful API for managing student records using Express.js",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jonaharspc-max/http-localhost-3000-api-students.git"
-  },
-  "keywords": [
-    "nodejs",
-    "express",
-    "rest-api",
-    "students"
-  ],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
